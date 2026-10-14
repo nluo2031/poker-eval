@@ -1,5 +1,7 @@
-__pychase__/
+__pycache__/
 *.pyc
 bench
 verify
 ref5.bin
+solver
+.DS_Store
